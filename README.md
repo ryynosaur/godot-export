@@ -16,6 +16,7 @@ A workflow action to automatically export your Godot games. Supports standard an
 
 ## How it Works
 
+
 This action automatically reads your `export_presets.cfg` file to determine which builds to make. Whenever this action runs each of your defined exports will run. The resulting executables can then be optionally attached to a release. See [the example configuration](#example-configuration).
 
 ## Setting Up Export Presets
